@@ -29,7 +29,7 @@ A **practical, interview-ready roadmap** to master **Bash scripting** while usin
 
 ## Phase 1: Shell Basics
 
-* [ ] `ls`, `cd`, `pwd`, `tree`
+* [x] `ls`, `cd`, `pwd`, `tree`
 * [ ] `cp`, `mv`, `rm`, `mkdir`
 * [ ] `cat`, `less`, `head`, `tail`
 * [ ] `wc`, `sort`, `uniq`
