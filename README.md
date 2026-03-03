@@ -30,8 +30,8 @@ A **practical, interview-ready roadmap** to master **Bash scripting** while usin
 ## Phase 1: Shell Basics
 
 * [x] `ls`, `cd`, `pwd`, `tree`
-* [ ] `cp`, `mv`, `rm`, `mkdir`
-* [ ] `cat`, `less`, `head`, `tail`
+* [x] `cp`, `mv`, `rm`, `mkdir`
+* [x] `cat`, `less`, `head`, `tail`
 * [ ] `wc`, `sort`, `uniq`
 * [ ] Pipes (`|`)
 * [ ] Output redirection (`>`, `>>`)
