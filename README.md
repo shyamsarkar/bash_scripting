@@ -33,10 +33,10 @@ A **practical, interview-ready roadmap** to master **Bash scripting** while usin
 * [x] `cp`, `mv`, `rm`, `mkdir`
 * [x] `cat`, `less`, `head`, `tail`
 * [x] `wc`, `sort`, `uniq`
-* [ ] Pipes (`|`)
-* [ ] Output redirection (`>`, `>>`)
-* [ ] Input redirection (`<`)
-* [ ] Error redirection (`2>`, `&>`)
+* [x] Pipes (`|`)
+* [x] Output redirection (`>`, `>>`)
+* [x] Input redirection (`<`)
+* [x] Error redirection (`2>`, `&>`)
 
 ---
 
