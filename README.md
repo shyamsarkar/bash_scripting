@@ -32,7 +32,7 @@ A **practical, interview-ready roadmap** to master **Bash scripting** while usin
 * [x] `ls`, `cd`, `pwd`, `tree`
 * [x] `cp`, `mv`, `rm`, `mkdir`
 * [x] `cat`, `less`, `head`, `tail`
-* [ ] `wc`, `sort`, `uniq`
+* [x] `wc`, `sort`, `uniq`
 * [ ] Pipes (`|`)
 * [ ] Output redirection (`>`, `>>`)
 * [ ] Input redirection (`<`)
