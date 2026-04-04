@@ -174,8 +174,3 @@ A **practical, interview-ready roadmap** to master **Bash scripting** while usin
 * [ ] Confidence in Bash interviews
 
 ---
-
-📁 **Next Files**
-
-* `sample-scripts.md` → Hands-on Bash examples
-* `interview-crash-plan.md` → 7–10 day interview prep plan
